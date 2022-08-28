@@ -1,1 +1,3 @@
 include ':matrix-sdk-android'
+include ':testelementsdkimport'
+include ':secondaapplication'
